@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Snoor 
 
 # 💫 About Me:
-🌱 I am working as remote instructor specializing in teaching Excel and SQL. 
-<br>In addition to teaching, I also work as a freelance professional, taking on projects where I apply my expertise in Excel and SQL to deliver high-quality solutions. 
-<br>- 👯 I’m looking to collaborate on a new project about Creating interactive Dashboard, showing the current house prices across Canada<br>- 🤔 I’m looking for help with Scrapping and collecting all house prices from 2013 till 2023<br>- 📫 You can reach me on my LinkedIn: www.linkedin.com/in/snoorsalihi<br>- 😄 Pronouns my name as snur not snoor<br>
+<br>-🌱 I am working as remote instructor specializing in teaching Excel and SQL. 
+<br>-In addition to teaching, I also work as a freelance professional, taking on projects where I apply my expertise in Excel and SQL to deliver high-quality solutions. 
+<br>- 👯 I’m looking to collaborate on a new project about Creating interactive Dashboard, showing the current house prices across Canada
+<br>- 🤔 I’m looking for help with Scrapping and collecting all house prices from 2013 till 2023<br>- 📫 You can reach me on my LinkedIn: www.linkedin.com/in/snoorsalihi
+<br>- 😄 Pronouns my name as snur not snoor<br>
 
 
 ## 🌐 Socials:
