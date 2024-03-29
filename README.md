@@ -3,6 +3,7 @@
 # 💫 About Me:
 <br>-🌱 I am working as remote instructor specializing in teaching Excel and SQL. 
 <br>-In addition to teaching, I also work as a freelance professional, taking on projects where I apply my expertise in Excel and SQL to deliver high-quality solutions. 
+<br> You can find my latest works and projects on my page.
 <br> Collecting range of data, clean and make report from them.
 <br> I practice with my web development skills everyday at least for a 30 minutes
 <br>- 👯 I’m looking to collaborate on a new project about Creating interactive Dashboard, showing the current house prices across Canada
