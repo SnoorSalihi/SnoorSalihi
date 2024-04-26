@@ -11,6 +11,7 @@
 <br>- 📫 You can reach me on my LinkedIn: www.linkedin.com/in/snoorsalihi
 <br>- 😄 Pronouns my name as snur not snoor<br>
 <br> Contact me on: LinkedIn
+<br> I am learning and making new project everyday for half hour at freecode camp.
 
 
 ## 🌐 Socials:
